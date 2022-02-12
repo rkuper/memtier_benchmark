@@ -24,6 +24,7 @@ stamp-h1
 *.DS_Store
 .vscode/*
 .idea/*
+ps.out
 
 # memtier outputs
 *.hgrm
